@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "AHN"
-  avatar           : "/assets/img/profile.jpg"
+  avatar           : "/assets/profile.jpg"
   bio              : "working"
   location         : "Seoul"
   email            :
