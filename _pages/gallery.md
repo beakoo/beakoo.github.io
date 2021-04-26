@@ -1,4 +1,5 @@
 ---
-title: "Gallery"
-peramlink: /gallery/
+layout: single
+title: Gallery
+permalink: /gallery/
 ---
