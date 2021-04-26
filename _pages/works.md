@@ -1,4 +1,5 @@
 ---
-permalink: /_posts/
 layout: single
+title: Works
+permalink: /_posts/
 ---
