@@ -6,6 +6,8 @@ main:
     url: /_posts/
   - title: "Gallery"
     url: /gallery/
+  - title: "Shop"
+    url: /https://smartstore.naver.com/beakoo/
     
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
