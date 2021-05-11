@@ -7,7 +7,7 @@ main:
   - title: "Gallery"
     url: /gallery/
   - title: "Shop"
-    url: /https://smartstore.naver.com/beakoo/
+    url: /shop/
     
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
