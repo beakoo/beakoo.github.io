@@ -11,4 +11,4 @@ gallery:
   - image_path: "assets/img/gallery/bookarts/popup_shin01.jpg"
 ---
 
-{% include gallery caption= "ddd"%}
+{% include image-gallery.html folder="assets/img/gallery/drawing" %}
