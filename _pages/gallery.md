@@ -10,5 +10,5 @@ gallery:
   - url: "https://github.com/beakoo/beakoo.github.io/blob/master/assets/img/gallery/bookarts/popup_shin01.jpg"
   - image_path: "assets/img/gallery/bookarts/popup_shin01.jpg"
 ---
-
 {% include image-gallery.html folder="assets/img/gallery/drawing" %}
+
