@@ -1,5 +1,1 @@
----
-title: "shop"
-layout: single
-url: https://smartstore.naver.com/beakoo
----
+https://smartstore.naver.com/beakoo/
