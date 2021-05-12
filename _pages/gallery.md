@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "Gallery"
+title: Gallery
+peramlink: /gallery/
 ---
 
 {{content}}
