@@ -1,6 +1,6 @@
 ---
 title: Gallery
-layout: posts
+layout: single
 permalink: /gallery/
 ---
 
