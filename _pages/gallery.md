@@ -4,6 +4,7 @@ layout: collection
 permalink: /gallery/
 ---
 
-Drawings
+Drawings       
+   
 {% include image-gallery.html folder="assets/img/gallery/drawing" %}
 
