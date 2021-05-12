@@ -11,15 +11,4 @@ gallery
   image_path: "assets/img/gallery/bookarts/popup_shin01.jpg"
 ---
 
-<br>
-
-<h3> Bookarts and Popups
-{% include image-gallery.html folder="/assets/img/gallery/bookarts” %}
 {% include gallery caption= "ddd"%}
-
-<br>
-
-<span class="page-divider">
-  <span class="one"></span>
-  <span class="two"></span>
-</span>
