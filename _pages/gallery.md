@@ -1,7 +1,6 @@
 ---
 layout: posts
 title: Gallery
-permalink: /gallery/
 ---
 
 <h3> Bookarts and Popups
