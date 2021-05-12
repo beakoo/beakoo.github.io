@@ -1,8 +1,10 @@
 ---
 layout: single
 title: "Gallery"
-permalink : /gallery/
 ---
+
+{{content}}
+
 <h3> Bookarts and Popups
 {% include image-gallery.html folder="/assets/img/gallery/bookarts” %}
 
