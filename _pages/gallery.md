@@ -1,6 +1,6 @@
 ---
 title: Gallery
-layout: collection
+layout: posts
 permalink: /gallery/
 ---
 
